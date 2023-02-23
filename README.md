@@ -1,2 +1,2 @@
 # PI
-Exercícios de Programação Imperativa, L:IACD 1ºAno 2ºSemestre
+Here is my entire class organized by my Practical Classes. Each folder has the exercises that we coded.
